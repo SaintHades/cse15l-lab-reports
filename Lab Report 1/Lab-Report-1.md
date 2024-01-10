@@ -1,26 +1,35 @@
 # Lab Report 1
 ## cd
 ![Image](cd.png)
-### with no arguments
+### 1. with no arguments
+  * /home
 
-### with *directory* as arguments
+### 2. with *directory* as arguments
+  * /home
 
-### with *file* as arguments
+### 3. with *file* as arguments
+  * /home/lecture1
 
 
 ## ls
 ![Image](ls.png)
-### with no arguments
+### 1. with no arguments
+  * /home
 
-### with *directory* as arguments
+### 2. with *directory* as arguments
+  * /home
 
-### with *file* as arguments
+### 3. with *file* as arguments
+  * /home/lecture1
 
 ## cat
 ![Image](cat1.png)
-### with no arguments
+### 1. with no arguments
+  * /home
 
 ![Image](cat2.png)
-### with *directory* as arguments
+### 2. with *directory* as arguments
+  * /home
 
-### with *file* as arguments
+### 3. with *file* as arguments
+  * /home/lecture1
