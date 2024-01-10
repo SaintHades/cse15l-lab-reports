@@ -2,6 +2,9 @@
 ## cd
 ![Image](cd.png)
 ### 1. with no arguments
+  ...
+  ls
+  ...
   * /home
 
 ### 2. with *directory* as arguments
