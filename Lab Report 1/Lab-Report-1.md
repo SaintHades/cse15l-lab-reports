@@ -1,11 +1,26 @@
 # Lab Report 1
-### cd
+## cd
 ![Image](cd.png)
+### with no arguments
 
-### ls
+### with *directory* as arguments
+
+### with *file* as arguments
+
+
+## ls
 ![Image](ls.png)
+### with no arguments
 
-### cat
+### with *directory* as arguments
+
+### with *file* as arguments
+
+## cat
 ![Image](cat1.png)
+### with no arguments
 
-![ImageP(cat2.png)
+![Image](cat2.png)
+### with *directory* as arguments
+
+### with *file* as arguments
