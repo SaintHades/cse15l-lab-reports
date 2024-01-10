@@ -2,9 +2,10 @@
 ## cd
 ![Image](cd.png)
 ### 1. with no arguments
-  ...
-  ls
-  ...
+  ```
+  [user@sahara ~]$ cd
+
+  ```
   * /home
 
 ### 2. with *directory* as arguments
