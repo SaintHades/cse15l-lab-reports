@@ -1,4 +1,6 @@
 # Lab Report 1
+
+
 ## cd
 
 ### 1. with no arguments
@@ -59,7 +61,7 @@ Hello.java
   * not error
 
 ## cat
-![Image](cat1.png)
+
 ### 1. with no arguments
 ```
 [user@sahara ~/lecture1]$ cat
@@ -74,7 +76,6 @@ test2
   * TODO
   * not error
 
-![Image](cat2.png)
 ### 2. with *directory* as arguments
 ```
 [user@sahara ~/lecture1]$ cat messages
