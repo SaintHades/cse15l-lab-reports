@@ -71,7 +71,7 @@ test2
 test2
 ```
   * working directory: /home/lecture1
-  * 
+  * TODO
   * not error
 
 ![Image](cat2.png)
