@@ -63,7 +63,6 @@ Hello.java
 ## cat
 
 ### 1. with no arguments
-![Image](cat1.png)
 ```
 [user@sahara ~/lecture1]$ cat
 test
@@ -84,7 +83,7 @@ cat: messages: Is a directory
 ```
   * working directory: /home/lecture1
   * When using `cat` with *directory* as arguments, it causes an error, since `cat` is only able to take *file* as arguments.
-  * error, since a 
+  * error, since a *file* is passed in as arguments, and `cat` can only take files as arguments.
 
 ### 3. with *file* as arguments
 ```
@@ -102,5 +101,5 @@ public class Hello {
 }
 ```
   * working directory: /home/lecture1
-  * TODO
-  * error, TODO
+  * When using `cat` with *file* as arguments, it prints out the content of the file that we pass in as the arguments. `cat` can take multiple arguments and print out the content for all files that are passed in.
+  * not error
