@@ -63,7 +63,7 @@ Hello.java
 ## cat
 
 ### 1. with no arguments
-![Image] [cat1.png]
+![Image] (cat1.png)
 ```
 [user@sahara ~/lecture1]$ cat
 test
